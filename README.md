@@ -4,8 +4,11 @@
 ###😊 About me:
 
 -🏫 I am a student at **Muhammad Al-Xorazmiy miyrasxorlari**.
+
 -💻 I am currently learning **HTML5** and **CSS3**.
+
 -⚡I love biology and chemistry, and I enjoy solving logical puzzles.
+
 -🌏 Based in **Qaraqalpaqstan, Oʻzbekiston**.
 
 
