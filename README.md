@@ -1,4 +1,17 @@
-## Hi there 👋
+
+### Hi, 👋 I'm Sagitjanova Maqpal 
+
+###😊 About me:
+-🏫 I am a student at **Muhammad Al-Xorazmiy miyrasxorlari**.
+-💻 I am currently learning **HTML5** and **CSS3**.
+-⚡I love biology and chemistry, and I enjoy solving logical puzzles.
+-🌏 Based in **Qaraqalpaqstan, Oʻzbekiston**.
+
+
+
+
+
+
 
 <!--
 **maqpalswe/maqpalswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
