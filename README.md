@@ -6,13 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/maqpalswe/profile.jpg" alt="Maqpal Photo" width="150" style="border-radius:50%;"/>
-</p>
 
 ---
 
 ## 🚀 About Me
-- 👩‍💻 Passionate frontend developer, learning React & JavaScript daily.
+- 👩‍💻 Passionate frontend developer, learning HTML5, CSS3& JavaScript daily.
 - 🌱 Exploring web projects & improving coding skills.
 - 💡 Love solving logical problems & building creative projects.
 - 📫 Contact: <a href="mailto:maqpal.swe@example.com">Email</a> | <a href="https://t.me/+998932090223">Telegram</a> | <a href="https://www.linkedin.com/in/yourlinkedin/">LinkedIn</a>
